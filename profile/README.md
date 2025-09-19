@@ -1,8 +1,10 @@
 # Hi, we're 🐦 FalcoLabs!
 ![electricity](https://forthebadge.com/images/featured/featured-powered-by-electricity.svg)
+
 ![love](https://forthebadge.com/images/badges/built-with-love.svg)
 ![crayons](https://forthebadge.com/images/badges/made-with-crayons.svg)
 ![works](https://forthebadge.com/images/badges/works-on-my-machine.svg)
+
 It's that place where where experiments, nonsense, and genuine innovation collide. FalcoLabs is a playground for friends who love making silly software that sparks joy while also sneaking in real, meaningful contributions to the open-source world.
 
 ## 🚀 Our Mission
